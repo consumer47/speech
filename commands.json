@@ -1,0 +1,7 @@
+{
+    "commands": {
+        "add todo": "add_todo",
+        "add card to anki": "add_card_to_anki",
+        "start anki training": "start_anki_training"
+    }
+}
